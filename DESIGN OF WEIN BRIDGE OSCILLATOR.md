@@ -1,4 +1,4 @@
-## EXP NO:2
+<img width="1600" height="900" alt="ex 2222" src="https://github.com/user-attachments/assets/5b158535-0536-4d27-9aaf-3b977605bc9e" />## EXP NO:2
 <img width="858" height="602" alt="image" src="https://github.com/user-attachments/assets/0ab70837-a8e1-408c-8a25-b8cecc6157d8" />
 <img width="823" height="236" alt="image" src="https://github.com/user-attachments/assets/29b1a1ff-3043-425c-9d36-50b3126cd5a6" />
 <img width="681" height="383" alt="image" src="https://github.com/user-attachments/assets/dff2cbda-f10f-4d7f-9aab-9aee3ee219b9" />
@@ -16,6 +16,9 @@
 ## Tabulation
 
 ## Graph
+
+<img width="1600" height="900" alt="ex 2222" src="https://github.com/user-attachments/assets/a31cdeaa-0708-4d21-b744-c59ba36634a8" />
+
 
 <img width="693" height="167" alt="image" src="https://github.com/user-attachments/assets/b1dcf583-cd07-4a28-8aad-9a4a8c82e5d9" />
 
